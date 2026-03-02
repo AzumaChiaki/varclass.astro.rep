@@ -1,0 +1,90 @@
+{
+  "item": {
+    "id": "com.azuma.varclass",
+    "restype": "quick_app",
+    "name": "VarClass",
+    "description": "Var课程表，旨在实现多种导入方式和将查看和使用",
+    "preview": [
+      "pre0.png",
+      "pre1.png",
+      "pre2.png",
+      "pre3.png",
+      "pre4.png",
+      "pre5.png",
+      "pre6.png",
+      "pre7.png"
+    ],
+    "icon": "icon.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "@AzumaChiaki",
+        "bindABAccount": true
+      },
+      {
+        "name": "@VanguardHello",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "github-logo",
+      "title": "GitHUb地址",
+      "url": "https://github.com/AzumaChiaki/varclass.astro.rep"
+    },
+    {
+      "icon": "",
+      "title": "官方网站",
+      "url": "https://azumastudio.top/products/post_1772419035200_d3910a35-1716-4c2e-b85a-799a9065edd4"
+    },
+    {
+      "icon": "",
+      "title": "购买链接爱发电",
+      "url": "https://afdian.com/item/3a92920cc6e511f0aa3252540025c377"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmb9p": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmb10": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmws3": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmws4": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmrw5": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "xmrw6": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    }
+  },
+  "ext": {}
+}

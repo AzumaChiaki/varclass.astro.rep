@@ -1,0 +1,65 @@
+{
+  "item": {
+    "name": "Var课程表",
+    "description": "Var课程表，旨在实现多种导入方式和将查看和使用",
+    "preview": [
+      "pre0.png",
+      "pre1.png",
+      "pre2.png",
+      "pre3.png",
+      "pre4.png",
+      "pre5.png",
+      "pre6.png",
+      "pre7.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/AzumaChiaki/varclass.astro.rep",
+    "author": [
+      {
+        "name": "AzumaChiaki",
+        "author_url": "https://www.bandbbs.cn/members/68749/"
+      },
+      {
+        "name": " VanguardHello",
+        "author_url": "https://www.bandbbs.cn/members/428406/"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "n67": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "o66": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "o66nfc": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "p65": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "n62": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },"o62": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "o65": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    },
+    "o65m": {
+      "version": "1.3.0",
+      "file_name": "pkg.rpk"
+    }
+  }
+}

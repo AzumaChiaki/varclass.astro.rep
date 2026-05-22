@@ -2,7 +2,7 @@
   "item": {
     "id": "com.azuma.varclass",
     "restype": "quick_app",
-    "name": "VarClass",
+    "name": "Var课程表",
     "description": "Var课程表，旨在实现多种导入方式和将查看和使用",
     "preview": [
       "pre0.png",
